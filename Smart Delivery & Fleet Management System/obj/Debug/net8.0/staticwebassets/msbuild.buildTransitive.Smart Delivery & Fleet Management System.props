@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Smart Delivery &amp; Fleet Management System.props" />
+</Project>
