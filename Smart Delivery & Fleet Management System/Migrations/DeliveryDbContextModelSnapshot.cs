@@ -39,21 +39,18 @@ namespace Smart_Delivery___Fleet_Management_System.Migrations
                     b.Property<double>("CurrentLng")
                         .HasColumnType("float");
 
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Phone")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<double>("Rating")
                         .HasColumnType("float");
 
                     b.Property<int>("Status")
                         .HasColumnType("int");
 
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("Drivers");
                 });
@@ -190,6 +187,17 @@ namespace Smart_Delivery___Fleet_Management_System.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("Smart_Delivery___Fleet_Management_System.Models.Driver", b =>
+                {
+                    b.HasOne("Smart_Delivery___Fleet_Management_System.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("Smart_Delivery___Fleet_Management_System.Models.DriverLocation", b =>

@@ -1,0 +1,199 @@
+[
+  {
+    "ContainingType": "Smart_Delivery___Fleet_Management_System.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Smart_Delivery___Fleet_Management_System.DTOs.User.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Smart_Delivery___Fleet_Management_System.Controllers.DispatcherController",
+    "Method": "GetLiveDrivers",
+    "RelativePath": "api/Dispatcher/drivers/live",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Smart_Delivery___Fleet_Management_System.Controllers.DispatcherController",
+    "Method": "Reassign",
+    "RelativePath": "api/Dispatcher/orders/{orderId}/reassign",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Smart_Delivery___Fleet_Management_System.Controllers.DispatcherController",
+    "Method": "GetActiveOrders",
+    "RelativePath": "api/Dispatcher/orders/active",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Smart_Delivery___Fleet_Management_System.Controllers.DriversController",
+    "Method": "AddDriver",
+    "RelativePath": "api/Drivers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Smart_Delivery___Fleet_Management_System.DTOs.Deiver.CreateDriverDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Smart_Delivery___Fleet_Management_System.Controllers.DriversController",
+    "Method": "GetAllDrivers",
+    "RelativePath": "api/Drivers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Smart_Delivery___Fleet_Management_System.Controllers.DriversController",
+    "Method": "GetAvailableDrivers",
+    "RelativePath": "api/Drivers/available",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Smart_Delivery___Fleet_Management_System.Controllers.DriversController",
+    "Method": "UpdateLocation",
+    "RelativePath": "api/Drivers/my-location",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Smart_Delivery___Fleet_Management_System.DTOs.Deiver.UpdateLocationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Smart_Delivery___Fleet_Management_System.Controllers.DriversController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/Drivers/status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Smart_Delivery___Fleet_Management_System.DTOs.Deiver.UpdateDriverStatusDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Smart_Delivery___Fleet_Management_System.Controllers.DriversOrdersController",
+    "Method": "GetMyOrders",
+    "RelativePath": "api/DriversOrders/my-orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Smart_Delivery___Fleet_Management_System.Controllers.DriversOrdersController",
+    "Method": "UpdateOrderStatus",
+    "RelativePath": "api/DriversOrders/orders/status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Smart_Delivery___Fleet_Management_System.Controllers.OrdersController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/Orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Smart_Delivery___Fleet_Management_System.DTOs.Order.CreateOrderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Smart_Delivery___Fleet_Management_System.Controllers.ReportsController",
+    "Method": "AverageDeliveryTime",
+    "RelativePath": "api/Reports/average-delivery-time",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Smart_Delivery___Fleet_Management_System.Controllers.ReportsController",
+    "Method": "DriversPerformance",
+    "RelativePath": "api/Reports/drivers-performance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Smart_Delivery___Fleet_Management_System.Controllers.ReportsController",
+    "Method": "FailureRate",
+    "RelativePath": "api/Reports/failure-rate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

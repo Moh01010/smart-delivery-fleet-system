@@ -3,52 +3,192 @@
   "WorkspaceRootPath": "D:\\Smart Delivery \u0026 Fleet Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|solutionrelative:smart delivery \u0026 fleet management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\repository\\dispatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\repository\\dispatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\migrations\\20260202102128_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|solutionrelative:smart delivery \u0026 fleet management system\\migrations\\20260202102128_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\controllers\\dispatchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\controllers\\dispatchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|solutionrelative:smart delivery \u0026 fleet management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\data\\seeder\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\data\\seeder\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\data\\deliverydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|solutionrelative:smart delivery \u0026 fleet management system\\data\\deliverydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|solutionrelative:smart delivery \u0026 fleet management system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\enums\\driverstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\enums\\driverstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|solutionrelative:smart delivery \u0026 fleet management system\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\models\\driverlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|solutionrelative:smart delivery \u0026 fleet management system\\models\\driverlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\controllers\\driversorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\controllers\\driversorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\models\\orderstatushistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|solutionrelative:smart delivery \u0026 fleet management system\\models\\orderstatushistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\repository\\driversrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\repository\\driversrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|solutionrelative:smart delivery \u0026 fleet management system\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\interface\\idriversrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\interface\\idriversrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|solutionrelative:smart delivery \u0026 fleet management system\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|solutionrelative:smart delivery \u0026 fleet management system\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\enums\\driverstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System.csproj|solutionrelative:smart delivery \u0026 fleet management system\\enums\\driverstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\repository\\reportsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\repository\\reportsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\dtos\\deiver\\createdriverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\dtos\\deiver\\createdriverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\interface\\ireportsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\interface\\ireportsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\hubs\\trackinghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\hubs\\trackinghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\dtos\\reports\\failureratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\dtos\\reports\\failureratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\dtos\\reports\\averagedeliverytimedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\dtos\\reports\\averagedeliverytimedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\dtos\\reports\\driverperformancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\dtos\\reports\\driverperformancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\interface\\idispatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\interface\\idispatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\dtos\\dispatcher\\livedriverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\dtos\\dispatcher\\livedriverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\dtos\\dispatcher\\activeorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\dtos\\dispatcher\\activeorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\dtos\\driverorder\\driverorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\dtos\\driverorder\\driverorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\interface\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\interface\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\services\\openstreetmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\services\\openstreetmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\externalmodels\\osrmresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\externalmodels\\osrmresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\externalmodels\\nominatimresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\externalmodels\\nominatimresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\dtos\\order\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\dtos\\order\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\dtos\\deiver\\updatedriverstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\dtos\\deiver\\updatedriverstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\dtos\\deiver\\updatelocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\dtos\\deiver\\updatelocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\migrations\\20260202102128_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\migrations\\20260202102128_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\data\\deliverydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\data\\deliverydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\models\\driverlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\models\\driverlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|d:\\smart delivery \u0026 fleet management system\\smart delivery \u0026 fleet management system\\models\\orderstatushistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659ABBED-8939-4FC8-AD57-5DACAE11D882}|Smart Delivery \u0026 Fleet Management System\\Smart Delivery.csproj|solutionrelative:smart delivery \u0026 fleet management system\\models\\orderstatushistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +198,570 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DriversController.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Controllers\\DriversController.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Controllers\\DriversController.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Controllers\\DriversController.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Controllers\\DriversController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwGAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:10:45.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DriversOrdersController.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Controllers\\DriversOrdersController.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Controllers\\DriversOrdersController.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Controllers\\DriversOrdersController.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Controllers\\DriversOrdersController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:29:40.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DriversRepository.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Repository\\DriversRepository.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Repository\\DriversRepository.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Repository\\DriversRepository.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Repository\\DriversRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswDYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T17:55:48.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DriverStatus.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Enums\\DriverStatus.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Enums\\DriverStatus.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Enums\\DriverStatus.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Enums\\DriverStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T09:40:18.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Enums\\OrderStatus.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T09:45:26.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentitySeeder.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Data\\Seeder\\IdentitySeeder.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Data\\Seeder\\IdentitySeeder.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Data\\Seeder\\IdentitySeeder.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Data\\Seeder\\IdentitySeeder.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T08:24:11.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DispatcherService.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Repository\\DispatcherService.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Repository\\DispatcherService.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Repository\\DispatcherService.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Repository\\DispatcherService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T19:15:53.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DispatcherController.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Controllers\\DispatcherController.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Controllers\\DispatcherController.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Controllers\\DispatcherController.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Controllers\\DispatcherController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T19:26:27.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDriversRepository.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Interface\\IDriversRepository.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Interface\\IDriversRepository.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Interface\\IDriversRepository.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Interface\\IDriversRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T17:42:58.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T10:29:28.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwFMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T10:50:24.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:31:10.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Program.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Program.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwFwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T10:20:44.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Enums\\UserRole.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T09:59:36.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Interface\\IAuthService.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:40:49.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateDriverDto.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Deiver\\CreateDriverDto.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Deiver\\CreateDriverDto.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Deiver\\CreateDriverDto.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Deiver\\CreateDriverDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:43:05.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Services\\JwtService.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Services\\JwtService.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Services\\JwtService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:26:02.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportsService.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Repository\\ReportsService.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Repository\\ReportsService.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Repository\\ReportsService.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Repository\\ReportsService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T10:19:07.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:39:10.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:38:20.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IReportsService.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Interface\\IReportsService.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Interface\\IReportsService.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Interface\\IReportsService.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Interface\\IReportsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T10:14:19.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Models\\Driver.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Models\\Driver.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Models\\Driver.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T09:32:41.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Models\\User.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Models\\User.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T09:59:05.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TrackingHub.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Hubs\\TrackingHub.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Hubs\\TrackingHub.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Hubs\\TrackingHub.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Hubs\\TrackingHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T12:28:28.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Services\\PasswordHasher.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T17:50:09.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\appsettings.json",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\appsettings.json",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\appsettings.json",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-02T10:18:11.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\User\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\DTOs\\User\\LoginDto.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\User\\LoginDto.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\DTOs\\User\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:45:20.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FailureRateDto.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Reports\\FailureRateDto.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Reports\\FailureRateDto.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Reports\\FailureRateDto.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Reports\\FailureRateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T10:13:25.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AverageDeliveryTimeDto.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Reports\\AverageDeliveryTimeDto.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Reports\\AverageDeliveryTimeDto.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Reports\\AverageDeliveryTimeDto.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Reports\\AverageDeliveryTimeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T10:01:57.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DriverPerformanceDto.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Reports\\DriverPerformanceDto.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Reports\\DriverPerformanceDto.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Reports\\DriverPerformanceDto.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Reports\\DriverPerformanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T10:00:34.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IDispatcherService.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Interface\\IDispatcherService.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Interface\\IDispatcherService.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Interface\\IDispatcherService.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Interface\\IDispatcherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T19:12:42.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LiveDriverDto.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Dispatcher\\LiveDriverDto.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Dispatcher\\LiveDriverDto.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Dispatcher\\LiveDriverDto.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Dispatcher\\LiveDriverDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T19:11:36.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ActiveOrderDto.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Dispatcher\\ActiveOrderDto.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Dispatcher\\ActiveOrderDto.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Dispatcher\\ActiveOrderDto.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Dispatcher\\ActiveOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T19:10:46.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DriverOrderDto.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\DriverOrder\\DriverOrderDto.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\DTOs\\DriverOrder\\DriverOrderDto.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\DriverOrder\\DriverOrderDto.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\DTOs\\DriverOrder\\DriverOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T20:03:04.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IOrdersRepository.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Interface\\IOrdersRepository.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Interface\\IOrdersRepository.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Interface\\IOrdersRepository.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Interface\\IOrdersRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:52:35.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OpenStreetMapService.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Services\\OpenStreetMapService.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Services\\OpenStreetMapService.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Services\\OpenStreetMapService.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Services\\OpenStreetMapService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:29:42.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OsrmResponse.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\ExternalModels\\OsrmResponse.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\ExternalModels\\OsrmResponse.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\ExternalModels\\OsrmResponse.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\ExternalModels\\OsrmResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:33:04.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NominatimResponse.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\ExternalModels\\NominatimResponse.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\ExternalModels\\NominatimResponse.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\ExternalModels\\NominatimResponse.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\ExternalModels\\NominatimResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:32:01.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Order\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Order\\CreateOrderDto.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Order\\CreateOrderDto.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Order\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T10:54:26.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Repository\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Repository\\OrdersRepository.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Repository\\OrdersRepository.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Repository\\OrdersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:57:21.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Models\\Order.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Models\\Order.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Models\\Order.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T09:43:38.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UpdateDriverStatusDto.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Deiver\\UpdateDriverStatusDto.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Deiver\\UpdateDriverStatusDto.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Deiver\\UpdateDriverStatusDto.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Deiver\\UpdateDriverStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:42:37.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateLocationDto.cs",
+              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Deiver\\UpdateLocationDto.cs",
+              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Deiver\\UpdateLocationDto.cs",
+              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\DTOs\\Deiver\\UpdateLocationDto.cs",
+              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\DTOs\\Deiver\\UpdateLocationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:42:01.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "20260202102128_init.cs",
               "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Migrations\\20260202102128_init.cs",
               "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Migrations\\20260202102128_init.cs",
@@ -75,33 +774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Program.cs",
-              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Program.cs",
-              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Program.cs",
-              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBMAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T10:20:44.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\appsettings.json",
-              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\appsettings.json",
-              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\appsettings.json*",
-              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-02T10:18:11.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 44,
               "Title": "DeliveryDbContext.cs",
               "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Data\\DeliveryDbContext.cs",
               "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Data\\DeliveryDbContext.cs",
@@ -114,33 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Enums\\UserRole.cs",
-              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Enums\\UserRole.cs",
-              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Enums\\UserRole.cs",
-              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Enums\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T09:59:36.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Models\\User.cs",
-              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Models\\User.cs",
-              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Models\\User.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T09:59:05.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 45,
               "Title": "DriverLocation.cs",
               "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Models\\DriverLocation.cs",
               "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Models\\DriverLocation.cs",
@@ -153,67 +800,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 46,
               "Title": "OrderStatusHistory.cs",
               "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Models\\OrderStatusHistory.cs",
               "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Models\\OrderStatusHistory.cs",
               "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Models\\OrderStatusHistory.cs",
               "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Models\\OrderStatusHistory.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAsAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T09:48:34.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Enums\\OrderStatus.cs",
-              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Enums\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T09:45:26.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Models\\Order.cs",
-              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Models\\Order.cs",
-              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Models\\Order.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA7wBMAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T09:43:38.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DriverStatus.cs",
-              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Enums\\DriverStatus.cs",
-              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Enums\\DriverStatus.cs",
-              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Enums\\DriverStatus.cs",
-              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Enums\\DriverStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T09:40:18.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Driver.cs",
-              "DocumentMoniker": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Models\\Driver.cs",
-              "RelativeDocumentMoniker": "Smart Delivery \u0026 Fleet Management System\\Models\\Driver.cs",
-              "ToolTip": "D:\\Smart Delivery \u0026 Fleet Management System\\Smart Delivery \u0026 Fleet Management System\\Models\\Driver.cs",
-              "RelativeToolTip": "Smart Delivery \u0026 Fleet Management System\\Models\\Driver.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwA8AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T09:32:41.865Z",
               "EditorCaption": ""
             }
           ]

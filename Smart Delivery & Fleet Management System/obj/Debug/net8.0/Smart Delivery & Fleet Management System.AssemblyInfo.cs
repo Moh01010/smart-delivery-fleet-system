@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Smart Delivery & Fleet Management System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cddcd6b53ec8f33e6e48b77e4a4e0aab3c024685")]
 [assembly: System.Reflection.AssemblyProductAttribute("Smart Delivery & Fleet Management System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Smart Delivery & Fleet Management System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
